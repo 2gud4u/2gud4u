@@ -51,6 +51,18 @@
 
 ---
 
+## 🔒 Private Projects
+
+Besides the repositories shown on this profile, I also manage **private repositories in Azure DevOps**, where I work on advanced projects such as:
+
+- 🎮 **Unreal Engine 5** (game systems, plugin integration, and procedural generation).  
+- 🖥️ Enterprise applications and custom solutions built with **.NET, Rust, and Next.js**.  
+- ⚙️ Full team workflows using **Azure Boards and Pipelines** (CI/CD).  
+
+Due to confidentiality, these repositories are not public, but they are an active part of my professional experience.
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
