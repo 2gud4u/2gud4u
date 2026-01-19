@@ -38,7 +38,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=2gud4u&theme=darkhub&no-frame=true&margin-w=10&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=2gud4u&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
